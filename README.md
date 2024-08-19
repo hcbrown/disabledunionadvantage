@@ -17,5 +17,5 @@ The wage regressions used to generate the results in the report can be founding 
 
 The benefit regressions used to generate the results in the report can be founding in[cepr_unadvtg2024_disability_cpsasec_regressions_benefits.do](regression/cepr_unadvtg2024_disability_cpsasec_regressions_benefits.do). Employer-sponsored benefit coverage regressions are probits. Union health insurance and retirement coverage increases in percent terms are relative to the current coverage rates for non-union workers. 
 
-Detailed regression results can be found in the [appendix tables](appendix/cepr_unadvtg2024_disability_appendix.xlsx). Appendix Tables 1 through 5 include detailed wage regression results. Appendix Table 6 through 10 include detailed health insurance coverage regression results. Appendix Table 11 through 15 include detailed retirement coverage regression results.
+Detailed regression results can be found in the [appendix tables](appendix/cepr_unadvtg2024_disability_appendix.xlsx). Appendix Tables 1 through 5 include detailed wage regression results. Appendix Tables 6 through 10 include detailed health insurance coverage regression results. Appendix Tables 11 through 15 include detailed retirement coverage regression results.
 
